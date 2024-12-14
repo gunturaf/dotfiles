@@ -1,0 +1,10 @@
+[url "ssh://git@gitlab.com/"]
+	insteadOf = https://gitlab.com/
+[pull]
+	rebase = true
+[core]
+	excludesfile = $HOME/.gitignore_global
+[diff]
+  external = difft
+[commit]
+	template = $HOME/.stCommitMsg
