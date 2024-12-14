@@ -1,0 +1,28 @@
+[font]
+size = 14
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+
+[window]
+# opacity = 0.75
+decorations = "None"
+blur = true
+startup_mode = "Maximized"
+title = "~.~ Devola Popola ~.~"
+
+[bell]
+animation = "EaseOutQuad"
+duration = 500
+color = "#ed2f15"
+
+[cursor.style]
+shape = "Block"
+blinking = "Always"
+
+[cursor]
+blink_interval = 400
+blink_timeout = 20
+
+[mouse]
+hide_when_typing = true
