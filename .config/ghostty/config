@@ -1,0 +1,11 @@
+font-size = 15
+font-family = "JetBrainsMono Nerd Font"
+
+theme = "Ayu Mirage"
+
+cursor-style = block
+cursor-style-blink = true
+
+macos-icon = custom-style
+macos-icon-frame = beige
+
